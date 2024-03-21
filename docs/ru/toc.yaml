@@ -15,15 +15,15 @@ items:
 # base: en
 navigation:
   logo:
-    url: '/en'
+    url: '/docs/en'
     dark:
-      icon: '/assets/icon/logo-dark.svg'
+      icon: '/docs/assets/icon/logo-dark.svg'
     light:
-      icon: '/assets/icon/logo.svg'
+      icon: '/docs/assets/icon/logo.svg'
   header:
     rightItems:
       - type: 'link'
-        img: '/assets/icon/github.svg'
+        img: '/docs/assets/icon/github.svg'
         text: 'GitHub'
         url: 'https://github.com/diplodoc-platform/'
       - type: 'controls'
